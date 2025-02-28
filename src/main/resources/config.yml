@@ -1,0 +1,12 @@
+shrine:
+  world: world
+  x: 0
+  y: 64
+  z: 0
+initialEggLocation:
+  world: world_the_end
+  x: 0
+  y: 68
+  z: 0
+timerStart: 0
+isTimerActive: false
