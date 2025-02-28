@@ -1,0 +1,7 @@
+name: EggQuest
+version: 1.0
+main: com.example.eggquest.EggQuestPlugin
+api-version: 1.21
+commands:
+  setshrine:
+    description: Set the shrine location
